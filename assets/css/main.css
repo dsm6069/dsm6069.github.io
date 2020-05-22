@@ -499,7 +499,18 @@ input, select, textarea {
 
 /* Type */
 
-	body, input, textarea, select {
+	textarea {
+		font-family: "Source Sans Pro", "sans-serif";
+		font-weight: 300;
+		font-size: 18pt;
+		line-height: 1.75em;
+		color: #3a3a3a;
+		letter-spacing: 0.025em;
+	}
+
+
+
+	body, input, select {
 		font-family: "Source Sans Pro", "sans-serif";
 		font-weight: 300;
 		font-size: 18pt;
